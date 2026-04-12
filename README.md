@@ -24,6 +24,5 @@
   - 한 줄 코드: (백틱) " `` " 으로 감싸기
   - 여러 코드: (백틱3개+언어 이름)으로 감싸기 "  
 
-ex) ```python
-<script> print(hello)</script>```
+ex) ```python <script> print(hello)</script>```
 
