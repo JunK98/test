@@ -26,3 +26,5 @@
 
 ex) ```python <script> print(hello)</script>```
 
+6. 링크 삽입
+  1. <주소>: 링크 보임 + 클릭 시 접속
